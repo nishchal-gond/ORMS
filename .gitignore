@@ -1,0 +1,23 @@
+# Visual Studio / VS Code workspace state
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# JetBrains
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration — keep credentials out of version control
+.env
+config.local.php
+
+# Dependencies (if npm is ever used for the theme assets)
+node_modules/
